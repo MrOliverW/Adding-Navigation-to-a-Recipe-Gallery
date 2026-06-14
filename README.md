@@ -1,0 +1,1 @@
+Transition a Recipe Gallery from a single-page state-based component into a modern multi-page application using React Router (now part of the Remix framework).Implement server-aware client-side routing to allow users to navigate between a home dashboard, a full gallery, and individual recipe detail pages using the file-based routing system.
